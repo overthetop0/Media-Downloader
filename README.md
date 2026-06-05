@@ -15,6 +15,8 @@ Self-hosted Python + NiceGUI web application for downloading and managing VOD an
 
 ## Screenshot
 
+<img src="screenshots/media0.png" width="100%">
+<img src="screenshots/media1.png" width="100%">
 ---
 
 ## Requirements
@@ -41,8 +43,7 @@ python3 -m venv env
 
 source env/bin/activate
 
-
-Dependencies:
+## Dependencies
 
 pip install sqlmodel
 pip install aiohttp
