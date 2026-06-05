@@ -15,8 +15,8 @@ Self-hosted Python + NiceGUI web application for downloading and managing VOD an
 
 ## Screenshot
 
-<img src="screenshots/media0.png" width="100%">
-<img src="screenshots/media1.png" width="100%">
+<img src="media0.png" width="100%">
+<img src="media1.png" width="100%">
 ---
 
 ## Requirements
