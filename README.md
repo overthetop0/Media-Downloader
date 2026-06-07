@@ -80,6 +80,38 @@ http://SERVER_IP:8080
 
 ---
 
+## How It Works
+
+1. Enter the IPTV provider URL, username, password and choose Movies or Series.
+
+2. Configure:
+
+   * Number of concurrent downloads
+   * Custom User-Agent
+   * Maximum download speed
+
+3. Save the provider configuration.
+
+4. Optionally add an M3U playlist to automatically skip already existing content.
+
+5. Search for specific content or use the preview button to browse categories.
+
+6. Add movies directly to the download queue or select a series and choose specific episodes.
+
+7. Use the download queue to:
+
+   * Start downloads
+   * Stop downloads
+   * Retry failed downloads
+   * Remove content
+
+---
+
+## API Compatibility
+
+The application targets Xtream-Codes API endpoints exposed through `player_api.php`.
+
+
 ## Notes
 
 This project is intended for educational and personal use only.
