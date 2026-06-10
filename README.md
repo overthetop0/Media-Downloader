@@ -51,6 +51,7 @@ source env/bin/activate
 ## Dependencies
 
 ```bash
+pip install psutil
 pip install sqlmodel
 pip install aiohttp
 pip install aiofiles
